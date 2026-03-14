@@ -1,0 +1,13 @@
+name: HTML5
+description: The fifth major version of the Hypertext Markup Language, used for structuring
+  and presenting content on the web. It is widely used by developers to build, maintain,
+  and scale software applications efficiently.
+url: https://html.spec.whatwg.org/
+tags:
+- Web Development
+- Frontend
+- Markup Language
+created: '2025'
+modified: '2025'
+apis: []
+common: []
