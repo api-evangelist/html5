@@ -1,13 +1,27 @@
+aid: html5
 name: HTML5
-description: The fifth major version of the Hypertext Markup Language, used for structuring
-  and presenting content on the web. It is widely used by developers to build, maintain,
-  and scale software applications efficiently.
-url: https://html.spec.whatwg.org/
+description: >-
+  HTML5 is the fifth major version of the HyperText Markup Language used for
+  structuring and presenting content on the web. It introduced new semantic
+  elements, multimedia support, canvas, web storage, geolocation, and other
+  modern web capabilities.
+url: https://raw.githubusercontent.com/api-evangelist/html5/refs/heads/main/apis.yml
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- Web Development
-- Frontend
-- Markup Language
+  - Web Development
+  - Frontend
+  - Markup Language
+  - W3C
 created: '2025'
-modified: '2025'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
-common: []
+common:
+  - type: Website
+    url: https://html.spec.whatwg.org/
+  - type: Reference
+    url: https://developer.mozilla.org/en-US/docs/Web/HTML
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
