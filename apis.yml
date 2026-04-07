@@ -9,10 +9,10 @@ url: https://raw.githubusercontent.com/api-evangelist/html5/refs/heads/main/apis
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Web Development
   - Frontend
   - Markup Language
   - W3C
+  - Web Development
 created: '2025'
 modified: '2026-03-16'
 specificationVersion: '0.19'
